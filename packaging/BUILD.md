@@ -16,7 +16,7 @@ Copy-Item .\upstream\babeldoc\* -Destination .\.venv\Lib\site-packages\babeldoc 
 
 ## 2. 准备模型、字体与 OCR 资源
 
-Git 仓库不包含大型模型和字体。可先安装 [Releases](https://github.com/zhang-yutong123/paperbridge/releases/latest) 中的当前 Windows 安装包，从安装目录的 `_internal/assets` 复制资源到仓库的 `app/assets`。需要的结构为：
+Git 仓库不包含大型模型和字体。可先安装 [Releases](https://github.com/zhang-yutong123/PaperBridge-PDF-Translate-Preserve-Formula-Layout-OCR-Tables-4Way-Compare-Free-DeepSeek-GLM-Windows/releases/latest) 中的当前 Windows 安装包，从安装目录的 `_internal/assets` 复制资源到仓库的 `app/assets`。需要的结构为：
 
 ```text
 app/assets/

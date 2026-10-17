@@ -1,4 +1,4 @@
-# 论文译读 · PaperBridge｜保留公式排版的论文翻译与对照阅读工具，支持图片文字识别、表格翻译与四种预览，Windows 安装即用
+# 论文译读 · PaperBridge｜保留公式排版的论文翻译与对照阅读工具，支持图片文字识别、表格翻译与四种预览，默认免费、可接 DeepSeek/GLM，Windows 安装即用
 
 **保留公式排版，翻完直接对照读。** 将论文翻译、图片文字识别与原文核对整合进同一个 Windows 工具：上传 PDF，翻译完成后直接阅读，需要留存时再下载。
 
@@ -6,7 +6,7 @@
 
 默认使用免费的必应翻译，无需 API Key；也可以选择 DeepSeek、智谱 GLM 等服务，填写自己的 API Key。翻译服务需要联网，自备 Key 服务的费用由相应服务商收取。
 
-**[下载 Windows 安装包](https://github.com/zhang-yutong123/paperbridge/releases/latest)** · [查看真实 PDF 示例](examples/CS5489_cheat_sheet-side-by-side.pdf) · [源码构建说明](packaging/BUILD.md)
+**[下载 Windows 安装包](https://github.com/zhang-yutong123/PaperBridge-PDF-Translate-Preserve-Formula-Layout-OCR-Tables-4Way-Compare-Free-DeepSeek-GLM-Windows/releases/latest)** · [查看真实 PDF 示例](examples/CS5489_cheat_sheet-side-by-side.pdf) · [源码构建说明](packaging/BUILD.md)
 
 ## 读论文时，少折腾几步
 
