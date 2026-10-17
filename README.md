@@ -1,6 +1,6 @@
 # 论文译读 · PaperBridge｜保留公式排版的论文翻译与对照阅读工具，支持图片文字识别、表格翻译与四种预览，默认免费、可接 DeepSeek/GLM，Windows 安装即用
 
-[![CityUHK Hub](https://cityu-hub.bond/badge/paperbridge.svg)](https://cityu-hub.bond/project/paperbridge)
+[![CityUHK Hub](https://cityu-hub.bond/badge/paperbridge.svg?v=20261017)](https://cityu-hub.bond/project/paperbridge)
 
 已被 [CityUHK Hub 收录](https://cityu-hub.bond/project/paperbridge)。
 
