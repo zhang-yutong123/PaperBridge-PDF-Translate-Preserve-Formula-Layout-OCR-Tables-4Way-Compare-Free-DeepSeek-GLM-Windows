@@ -1,0 +1,51 @@
+# Local Python and editor files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.idea/
+.vscode/
+
+# Personal settings, credentials, logs, documents and translation history
+.env
+.env.*
+!.env.example
+settings.json
+config.json
+*credentials*.json
+*secret*.json
+*.key
+secrets/
+cache/
+pdf2zh_files/
+*.db
+*.db-*
+*.log
+*.pdf
+!examples/CS5489_cheat_sheet-side-by-side.pdf
+
+# Release-only binaries, models, fonts and large upstream archives
+release/
+dist/
+build/
+packaging/build/
+packaging/build-tools/
+packaging/source-archives/
+models/
+*.exe
+*.dll
+*.pyd
+*.onnx
+*.traineddata
+*.ttf
+*.otf
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.part
+
+# The public default contains no credentials
+!app/assets/default-settings.json
