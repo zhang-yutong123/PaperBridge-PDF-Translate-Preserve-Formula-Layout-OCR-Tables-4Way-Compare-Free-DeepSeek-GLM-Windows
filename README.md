@@ -1,5 +1,9 @@
 # 论文译读 · PaperBridge｜保留公式排版的论文翻译与对照阅读工具，支持图片文字识别、表格翻译与四种预览，默认免费、可接 DeepSeek/GLM，Windows 安装即用
 
+[![CityUHK Hub](https://cityu-hub.bond/badge/paperbridge.svg)](https://cityu-hub.bond/project/paperbridge)
+
+已被 [CityUHK Hub 收录](https://cityu-hub.bond/project/paperbridge)。
+
 **保留公式排版，翻完直接对照读。** 将论文翻译、图片文字识别与原文核对整合进同一个 Windows 工具：上传 PDF，翻译完成后直接阅读，需要留存时再下载。
 
 基于 [PDFMathTranslate 1.9.11](https://github.com/PDFMathTranslate/PDFMathTranslate) 的**非官方社区桌面版**，为 Windows 64 位电脑提供中文界面、PDF 对照阅读，以及公式、表格和图片文字的排版修复。
